@@ -80,7 +80,7 @@ wa-bot-tracker-shalat/
 - **User A**: *(Mengirim foto sajadah/masjid)* + Caption: `"Subuh"`
 - **Bot**:
   > ✅ *Alhamdulillah!*
-  > Shalat *Subuh* berhasil dicatat untuk *Ahmad*.
+  > Shalat *Subuh* berhasil dicatat untuk *raven*.
   > 📊 *Pencapaian Hari Ini*: 1/5 Shalat Wajib
 
 - **User B**: *(Metik di grup)* `!rekap`
@@ -88,10 +88,10 @@ wa-bot-tracker-shalat/
   > 📋 *REKAP SHALAT HARIAN*
   > 📅 Tanggal: *2026-08-25*
   > ━━━━━━━━━━━━━━━━━━━━━━
-  > 1. *Ahmad* (5/5)
+  > 1. *raven* (5/5)
   >    ✅ Subuh | ✅ Dzuhur | ✅ Ashar | ✅ Maghrib | ✅ Isya
   > 
-  > 2. *Budi* (3/5)
+  > 2. *leona* (3/5)
   >    ✅ Subuh | ✅ Dzuhur | ✅ Ashar | ❌ Maghrib | ❌ Isya
   > 
   > ━━━━━━━━━━━━━━━━━━━━━━
